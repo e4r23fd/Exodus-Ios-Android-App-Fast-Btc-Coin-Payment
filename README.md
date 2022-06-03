@@ -16,7 +16,12 @@ The official instance of Exodus is available [here](https://reports.exodus-priva
 
 All data about trackers are stored on [ETIP](https://etip.exodus-privacy.eu.org) (Exodus tracker investigation platform).
 
-If you wish to help us identify new trackers, you can request an ETIP account by sending a username and an email address to [etip@exodus-privacy.eu.org](mailto:etip@exodus-privacy.eu.org)
+If you wish to help us identify new trackers, you can request an ETIP account by sending a username and an email address to [etip@exodus-privacy.eu.org](mailto:etip@exodus-privacy.eu.org)Exodus is a tool that makes it easy to successfully relocate Linux ELF binaries from one system to another. This is useful in situations where you don't have root access on a machine or where a package simply isn't available for a given Linux distribution. For example, CentOS 6.X and Amazon Linux don't have packages for Google Chrome or aria2. Server-oriented distributions tend to have more limited and outdated packages than desktop distributions, so it's fairly common that one might have a piece of software installed on their laptop that they can't easily install on a remote machine.
+
+With exodus, transferring a piece of software that's working on one computer to another is as simple as this.
+
+exodus aria2c | ssh intoli.com
+Exodus handles bundling all of the binary's dependencies, compiling a statically linked wrapper for the executable that invokes the relocated linker directly, and installing the bundle in ~/.exodus/ on the remote machine. You can see it in action here.
 
 ## Getting Started
 
