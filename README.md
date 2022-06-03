@@ -9,6 +9,8 @@
 
 
 **Exodus** is a privacy auditing platform for Android applications. It detects behaviors which can be dangerous for user privacy like ads, tracking, analytics, …
+![image](https://user-images.githubusercontent.com/106811566/171850847-9127782b-3faa-40e0-b7fd-43bee5469e26.png)
+
 
 The official instance of Exodus is available [here](https://reports.exodus-privacy.eu.org/).
 
@@ -36,6 +38,7 @@ If you are looking for adding Exodus into your CI pipelines, take a look at [Exo
 ### FAQ
 
 Check the [FAQ](doc/faq.md) if you encounter any problem or need an extended documentation about Exodus.
+![image](https://user-images.githubusercontent.com/106811566/171850782-b4a80bbb-a31b-49fd-ad8f-337008f3401f.png)
 
 ## Contributing
 
