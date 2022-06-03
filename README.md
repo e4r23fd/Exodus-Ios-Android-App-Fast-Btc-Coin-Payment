@@ -1,5 +1,4 @@
-# εxodus
-![IchBin](https://lgtm.com/projects/g/Exodus-Privacy/exodus/context:python)
+# Exodus
 ![GitHub release](https://img.shields.io/github/release/ppy/osu.svg)
 ![CodeFactor](https://www.codefactor.io/repository/github/ppy/osu/badge)
 ![dev chat](https://discordapp.com/api/guilds/188630481301012481/widget.png?style=shield)
@@ -9,13 +8,13 @@
 ![Chat](https://badges.gitter.im/awesome-twitter-bots/Lobby.svg)
 
 
-**εxodus** is a privacy auditing platform for Android applications. It detects behaviors which can be dangerous for user privacy like ads, tracking, analytics, …
+**Exodus** is a privacy auditing platform for Android applications. It detects behaviors which can be dangerous for user privacy like ads, tracking, analytics, …
 
-The official instance of εxodus is available [here](https://reports.exodus-privacy.eu.org/).
+The official instance of Exodus is available [here](https://reports.exodus-privacy.eu.org/).
 
 ## Contribute to the identification of trackers
 
-All data about trackers are stored on [ETIP](https://etip.exodus-privacy.eu.org) (εxodus tracker investigation platform).
+All data about trackers are stored on [ETIP](https://etip.exodus-privacy.eu.org) (Exodus tracker investigation platform).
 
 If you wish to help us identify new trackers, you can request an ETIP account by sending a username and an email address to [etip@exodus-privacy.eu.org](mailto:etip@exodus-privacy.eu.org)
 
@@ -27,11 +26,11 @@ You have different ways of setting up your development environment (via Docker o
 
 ### Continuous Integration
 
-If you are looking for adding εxodus into your CI pipelines, take a look at [εxodus-standalone](https://github.com/Exodus-Privacy/exodus-standalone).
+If you are looking for adding Exodus into your CI pipelines, take a look at [Exodus-standalone](https://github.com/Exodus-Privacy/exodus-standalone).
 
 ### FAQ
 
-Check the [FAQ](doc/faq.md) if you encounter any problem or need an extended documentation about εxodus.
+Check the [FAQ](doc/faq.md) if you encounter any problem or need an extended documentation about Exodus.
 
 ## Contributing
 
